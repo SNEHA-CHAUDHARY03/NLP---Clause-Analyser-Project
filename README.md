@@ -1,5 +1,7 @@
 # Legal Clause Risk Analyzer
 
+**🌐 Live Demo**: [https://clause-analyser.streamlit.app/](https://clause-analyser.streamlit.app/)
+
 This project is a Streamlit web application that analyzes legal clauses from contracts to identify potential risks. It classifies each clause into one of three risk categories: High, Medium, or Low. This tool can help users quickly assess the risk level of their legal documents.
 
 ## Features
@@ -23,7 +25,7 @@ This project is a Streamlit web application that analyzes legal clauses from con
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/legal-clause-risk-analyzer.git
+    git clone https://github.com/SNEHA-CHAUDHARY03/NLP---Clause-Analyser-Project
     cd legal-clause-risk-analyzer
     ```
 
